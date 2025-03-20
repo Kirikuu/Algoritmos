@@ -1,3 +1,4 @@
+
 #Autor: Jarrinson Ocampo
 #Este es un comentario de una sola linea 
 ''' esto es un comentario 
@@ -36,4 +37,6 @@ print(type(x))
 x= 4.8 
 print(type(x))
 
+#<class 'float'>: significa que la variable es un flotante (numero decimal)
 
+print(x, nombre)
