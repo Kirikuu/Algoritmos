@@ -102,9 +102,9 @@ and: exige que todas las condiciones que estamos evaluando sean true para respon
 or: este operador solo necesita qeu algunas de las condiciones sea true para responder
 not
 '''
-# x=4 # defino el valor de la variable x
-# x==4 #preguntando si x es igual a 4
-# y=4
+x=4 # defino el valor de la variable x
+x==4 #preguntando si x es igual a 4
+y=4
 # # print(x==4 and y==4)
 
 # #uso del operador
